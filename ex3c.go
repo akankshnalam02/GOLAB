@@ -22,3 +22,7 @@ func main() {
 	clear(m)
 	fmt.Println(m, len(m))
 }
+
+
+
+
