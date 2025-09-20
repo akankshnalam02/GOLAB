@@ -1,3 +1,5 @@
+
+
 package main
 import (
 	"fmt"
@@ -44,3 +46,4 @@ func main() {
 	}
 	fmt.Printf("The biggest home page: %s, size = %d bytes\n", biggest.URL, biggest.Size)
 }
+
