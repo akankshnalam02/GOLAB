@@ -6,3 +6,8 @@ func main() {
 	fmt.Println("Fourth element of array =", arr[3])
 	fmt.Println("Fourth element of slice =", sli[3])
 }
+
+
+
+
+
