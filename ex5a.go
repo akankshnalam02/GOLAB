@@ -36,3 +36,7 @@ func main() {
 	fmt.Printf("Area of rectangle: %.2f\n", s.Area())
 	fmt.Printf("Perimeter of rectangle: %.2f\n\n", s.Perimeter())
 }
+
+
+
+
