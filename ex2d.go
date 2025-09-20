@@ -33,3 +33,5 @@ func main() {
 	_, _ = db.Exec(`UPDATE users SET email=$1 WHERE name=$2`, "john.doe@example.com", "John Doe")
 	_, _ = db.Exec(`DELETE FROM users WHERE name=$1`, "John Doe")
 }
+
+
