@@ -1,3 +1,5 @@
+
+
 package main
 import (
 	"encoding/csv"
@@ -32,3 +34,4 @@ func main() {
 	}
 	fmt.Printf("Max Salary: %d\n", max)
 }
+
