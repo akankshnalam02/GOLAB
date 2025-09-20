@@ -20,3 +20,9 @@ func main() {
 	versicolorDF = irisDF.Filter(filter).Select([]string{"sepal_width", "species"}).Subset([]int{0, 1, 2})
 	fmt.Println(versicolorDF)
 }
+
+
+
+
+
+
