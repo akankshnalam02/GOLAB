@@ -1,3 +1,7 @@
+
+
+
+
 package main
 import (
 	"fmt"
@@ -22,3 +26,4 @@ func main() {
 	fmt.Println(Max(-1, -5, -3, -10, -2))
 	fmt.Println(Max())
 }
+
