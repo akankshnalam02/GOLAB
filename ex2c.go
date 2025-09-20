@@ -28,3 +28,8 @@ func main() {
 		fmt.Printf("Station ID: %s, Bikes: %d\n", station.ID, station.NumBikesAvailable)
 	}
 }
+
+
+
+
+
